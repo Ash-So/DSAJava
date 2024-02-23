@@ -13,7 +13,7 @@ import java.math.BigInteger;
 class Solution{
     
     //Function to return sum of count of set bits in the integers from 1 to n.
-    // 
+    // O(log n) O(1)
     public static int countSetBits(int n){
         if(n==0) return 0;
         
