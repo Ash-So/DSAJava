@@ -8,7 +8,7 @@ class Solution {
         int dd = Math.abs(dividend);
         int dv = Math.abs(divisor);
         
-        while(dd-dv >= 0){
+        while(dd - dv >=  0){
             int sum = dv, count = 1;
             while((dd-(sum<<1))>=0){
                 sum <<= 1;
