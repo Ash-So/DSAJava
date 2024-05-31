@@ -1,15 +1,17 @@
 class Solution {
     public int hIndex(int[] citations) {
-        int low = 0, high = citations.length;
-        while(low < high){
-            int mid = (low+high+1)/2;
-            int c = 0;
-            for(int i=0 ; i < citations.length ;i++){
-                if(citations[i]>=mid) c++;
-            }
-            if(c>=mid) low =mid;
-            else high = mid-1;
+        int n = citations.length;
+        int[] arr = new int[n+1];
+        
+        for(int c : citations){
+            if(c > n) arr[n]++;
+            else arr[c]++;
         }
-        return low;
+        int count = 0;
+        for(int i = n ; i >= 0 ; i-- ){
+            count += arr[i];
+            if(count >= i) return i;
+        }
+        return 0;
     }
 }
