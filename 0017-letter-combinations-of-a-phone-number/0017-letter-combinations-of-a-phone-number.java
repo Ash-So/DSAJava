@@ -5,7 +5,7 @@ class Solution {
         put('4', "ghi");
         put('5', "jkl");
         put('6', "mno");
-        put('7', "pqrs"); // Corrected from 'qprs' to 'pqrs'
+        put('7', "pqrs");
         put('8', "tuv");
         put('9', "wxyz");
     }};
