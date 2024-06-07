@@ -1,4 +1,5 @@
 class Solution {
+    // O(nCk)
 //     List<List<Integer>> res;
 //     public List<List<Integer>> combine(int n, int k) {
 //         res = new ArrayList();
