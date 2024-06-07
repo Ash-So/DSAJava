@@ -11,9 +11,13 @@ class Solution {
     
     public void backtrack(int i, List<Integer> temp, int target, int[] candidates){
         if(i == candidates.length){
-            if(target == 0){
-                res.add(new ArrayList<Integer>(temp)); // O(n)
-            }
+            // if(target == 0){
+            //     res.add(new ArrayList<Integer>(temp)); // O(n)
+            // }
+            return;
+        }
+        if(target == 0){
+            res.add(new ArrayList<Integer>(temp)); // O(n)
             return;
         }
         
