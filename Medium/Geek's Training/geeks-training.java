@@ -31,7 +31,7 @@ class GFG{
 
 class Solution{
     public int maximumPoints(int points[][],int n){
-        //
+        // O(n*4*3) O(4)
         int[] prev = new int[4];
         prev[0] = Math.max(points[0][1], points[0][2]);
         prev[1] = Math.max(points[0][0], points[0][2]);
