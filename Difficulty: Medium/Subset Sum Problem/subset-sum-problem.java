@@ -37,7 +37,7 @@ class Solution{
 
 
     static Boolean isSubsetSum(int n, int arr[], int sum){
-        // O() O()
+        // O(nk) O(k)
         boolean[] prev = new boolean[sum+1];
         for(int i = 0 ; i < sum+1 ; i++) prev[i] = false;
         
