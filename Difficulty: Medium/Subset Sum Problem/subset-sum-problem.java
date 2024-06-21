@@ -43,7 +43,7 @@ class Solution{
         
         prev[0] = true;
         
-        if(arr[0] <= sum){
+        if(arr[0] <= sum+1){
              prev[arr[0]] = true;   
         }
         
