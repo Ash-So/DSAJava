@@ -1,5 +1,6 @@
 class Solution {
-    // Mett in the Middle
+    // Meet in the Middle
+    // O(n 2^n)
     public int minimumDifference(int[] nums){
         int N = nums.length;
         int n = N/2;
