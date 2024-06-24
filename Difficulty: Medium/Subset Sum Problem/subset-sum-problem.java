@@ -50,7 +50,7 @@ class Solution{
         for(int i = 1 ; i < n ; i++){
             boolean[] curr = new boolean[sum+1];
             curr[0] = true;
-            for(int target = 1 ; target <= sum ; target++){
+            for(int target = 0 ; target <= sum ; target++){
                 boolean take = false;
                 if(target >= arr[i]) take = prev[target-arr[i]];
                 boolean notTake = prev[target];
