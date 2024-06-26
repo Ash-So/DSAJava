@@ -53,11 +53,11 @@ class Solution
     { 
         int[] prev = new int[W+1];
         for(int i = 0 ; i < W+1 ; i++) prev[i] = 0;
-         
-        // if(wt[0] <= W) prev[wt[0]] = val[0];
+        
+        // For every weight greater than wt[0] n less than W we can steal  
         for(int i=wt[0];i<=W;i++){
              prev[i]=val[0];
-         }
+         } 
         
         for(int ind = 1 ; ind < n ; ind++){
             for(int cap = W ; cap >= 0 ; cap--){
