@@ -33,25 +33,47 @@ class GFG{
 //User function Template for Java
 
 class Solution{
+    // O(NW) O(W) 1 SPACE ARRAY
     static int knapSack(int N, int W, int val[], int wt[])
     {
-        int[] prev = new int[W+1];
+        int[] curr = new int[W+1];
         
         for(int w = wt[0] ; w <= W ; w++){
-            prev[w] = ((int) w / wt[0]) * val[0];
+            curr[w] = ((int) w / wt[0]) * val[0];
         }
         
         for(int ind = 1 ; ind < N ; ind++){
-            int[] curr = new int[W+1];
             for(int w = 0 ; w <= W ; w++){
-                int notTake = prev[w];
+                int notTake = curr[w];
                 int take = Integer.MIN_VALUE;
                 if(w >= wt[ind]) take = val[ind] + curr[w - wt[ind]];
                 curr[w] = Math.max(take, notTake);
             }
-            prev = curr;
         }
         
-        return prev[W];
+        return curr[W];
     }
+    
+    // // O(NW) O(2W) 2 SPACE ARRAY
+    // static int knapSack(int N, int W, int val[], int wt[])
+    // {
+    //     int[] prev = new int[W+1];
+        
+    //     for(int w = wt[0] ; w <= W ; w++){
+    //         prev[w] = ((int) w / wt[0]) * val[0];
+    //     }
+        
+    //     for(int ind = 1 ; ind < N ; ind++){
+    //         int[] curr = new int[W+1];
+    //         for(int w = 0 ; w <= W ; w++){
+    //             int notTake = prev[w];
+    //             int take = Integer.MIN_VALUE;
+    //             if(w >= wt[ind]) take = val[ind] + curr[w - wt[ind]];
+    //             curr[w] = Math.max(take, notTake);
+    //         }
+    //         prev = curr;
+    //     }
+        
+    //     return prev[W];
+    // }
 }
