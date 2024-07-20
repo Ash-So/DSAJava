@@ -33,7 +33,7 @@ class Solution {
             last_index = hash[last_index];
             ans.add(nums[last_index]);
         }
-        // Collections.reverse(ans);
+        Collections.reverse(ans);
         return ans;
     }
 }
