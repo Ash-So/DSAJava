@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Ash-So/DSAJava/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Ash-So/DSAJava/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ash-So/DSAJava/tree/master/0516-longest-palindromic-subsequence) |
+| [1129-longest-string-chain](https://github.com/Ash-So/DSAJava/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Ash-So/DSAJava/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ash-So/DSAJava/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Ash-So/DSAJava/tree/master/0368-largest-divisible-subset) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ash-So/DSAJava/tree/master/0516-longest-palindromic-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ash-So/DSAJava/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1129-longest-string-chain](https://github.com/Ash-So/DSAJava/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Ash-So/DSAJava/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ash-So/DSAJava/tree/master/1250-longest-common-subsequence) |
 ## Greedy
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ash-So/DSAJava/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/Ash-So/DSAJava/tree/master/0368-largest-divisible-subset) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ash-So/DSAJava/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1129-longest-string-chain](https://github.com/Ash-So/DSAJava/tree/master/1129-longest-string-chain) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,4 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Ash-So/DSAJava/tree/master/0368-largest-divisible-subset) |
+| [1129-longest-string-chain](https://github.com/Ash-So/DSAJava/tree/master/1129-longest-string-chain) |
+## Hash Table
+|  |
+| ------- |
+| [1129-longest-string-chain](https://github.com/Ash-So/DSAJava/tree/master/1129-longest-string-chain) |
+## Two Pointers
+|  |
+| ------- |
+| [1129-longest-string-chain](https://github.com/Ash-So/DSAJava/tree/master/1129-longest-string-chain) |
 <!---LeetCode Topics End-->
