@@ -26,14 +26,14 @@ class Solution {
             }
         }
         
-        ArrayList<Integer> lis = new ArrayList<>();
-        lis.add(nums[last_index]);
+        ArrayList<Integer> ans = new ArrayList<>();
+        ans.add(nums[last_index]);
         
         while(hash[last_index] != last_index){
             last_index = hash[last_index];
-            lis.add(nums[last_index]);
+            ans.add(nums[last_index]);
         }
-        Collections.reverse(lis);
-        return lis;
+        // Collections.reverse(ans);
+        return ans;
     }
 }
