@@ -1,5 +1,6 @@
 class Solution {
     public boolean parseBoolExpr(String expression) {
+        // O(n) O(n)
         int n = expression.length();
         Stack<Character> st = new Stack<>();
 
@@ -11,7 +12,7 @@ class Solution {
                 while(st.peek() != '('){
                     hp.add(st.pop());
                 }
-                st.pop();
+                st.pop();  // remove '('
                 char op = st.pop();
                 if(op == '!'){
                     st.push(hp.contains('t') ? 'f' : 't');
