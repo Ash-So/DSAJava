@@ -32,39 +32,39 @@ class Solution {
         }
         a.add(1);
         int n = nums.length;
-        int[][] dp = new int[n + 2][n + 2];
+        // int[][] dp = new int[n + 2][n + 2];
 
-        // Iterate from the end to the beginning
-        for (int i = n; i >= 1; i--) {
-            for (int j = 1; j <= n; j++) {
-                if (i > j) continue;
-                int maxi = Integer.MIN_VALUE;
-                
-                // Iterate through possible indices to split the array
-                for (int ind = i; ind <= j; ind++) {
-                    int cost = a.get(i - 1) * a.get(ind) * a.get(j + 1) +
-                               dp[i][ind - 1] + dp[ind + 1][j];
-                    maxi = Math.max(maxi, cost);
-                }
-                dp[i][j] = maxi;
-            }
-        }
-        return dp[1][n];
-        // int[][] dp = new int[n+2][n+2];
-
-        // for(int i = n ; i >= 1 ; i--){
-        //     for(int j = 1 ; i <= n ; i++){
-        //         if(i > j) continue;
-
+        // // Iterate from the end to the beginning
+        // for (int i = n; i >= 1; i--) {
+        //     for (int j = 1; j <= n; j++) {
+        //         if (i > j) continue;
         //         int maxi = Integer.MIN_VALUE;
-        //         for(int ind = i ; ind <= j ; ind++){
-        //             int cost = a.get(i-1)*a.get(ind)*a.get(j+1) 
-        //                     + dp[i][ind-1] + dp[ind+1][j];
+                
+        //         // Iterate through possible indices to split the array
+        //         for (int ind = i; ind <= j; ind++) {
+        //             int cost = a.get(i - 1) * a.get(ind) * a.get(j + 1) +
+        //                        dp[i][ind - 1] + dp[ind + 1][j];
         //             maxi = Math.max(maxi, cost);
         //         }
         //         dp[i][j] = maxi;
         //     }
         // }
         // return dp[1][n];
+        int[][] dp = new int[n+2][n+2];
+
+        for(int i = n ; i >= 1 ; i--){
+            for(int j = 1 ; j <= n ; j++){
+                if(i > j) continue;
+
+                int maxi = Integer.MIN_VALUE;
+                for(int ind = i ; ind <= j ; ind++){
+                    int cost = a.get(i-1)*a.get(ind)*a.get(j+1) 
+                            + dp[i][ind-1] + dp[ind+1][j];
+                    maxi = Math.max(maxi, cost);
+                }
+                dp[i][j] = maxi;
+            }
+        }
+        return dp[1][n];
     }
 }
