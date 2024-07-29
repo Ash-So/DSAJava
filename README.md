@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/Ash-So/DSAJava/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Ash-So/DSAJava/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ash-So/DSAJava/tree/master/1250-longest-common-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Ash-So/DSAJava/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ash-So/DSAJava/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Greedy
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ash-So/DSAJava/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Ash-So/DSAJava/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/Ash-So/DSAJava/tree/master/1129-longest-string-chain) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Ash-So/DSAJava/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ash-So/DSAJava/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Binary Search
 |  |
@@ -111,4 +113,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Ash-So/DSAJava/tree/master/0085-maximal-rectangle) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Ash-So/DSAJava/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
