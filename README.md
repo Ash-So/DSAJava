@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ash-So/DSAJava/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ash-So/DSAJava/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ash-So/DSAJava/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0200-number-of-islands](https://github.com/Ash-So/DSAJava/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/Ash-So/DSAJava/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ash-So/DSAJava/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Ash-So/DSAJava/tree/master/0312-burst-balloons) |
@@ -121,9 +122,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Ash-So/DSAJava/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/Ash-So/DSAJava/tree/master/0200-number-of-islands) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ash-So/DSAJava/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Backtracking
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Ash-So/DSAJava/tree/master/0494-target-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Ash-So/DSAJava/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Ash-So/DSAJava/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Ash-So/DSAJava/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
