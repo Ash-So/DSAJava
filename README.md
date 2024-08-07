@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ash-So/DSAJava/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Ash-So/DSAJava/tree/master/0085-maximal-rectangle) |
+| [0225-implement-stack-using-queues](https://github.com/Ash-So/DSAJava/tree/master/0225-implement-stack-using-queues) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ash-So/DSAJava/tree/master/1197-parsing-a-boolean-expression) |
 ## Monotonic Stack
 |  |
@@ -140,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ash-So/DSAJava/tree/master/0200-number-of-islands) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ash-So/DSAJava/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ash-So/DSAJava/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
