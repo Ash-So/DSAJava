@@ -46,10 +46,16 @@ class Solution {
         }
         
         for(int i = 0 ; i < edges.length ; i++){
+            // Undirected graph SC: O(2*E) E = no. of edges
             int u = edges[i][0];
             int v = edges[i][1];
             adj.get(u).add(v);
             adj.get(v).add(u);
+
+            // // Directed graph SC: O(E)
+            // int u = edges[i][0];
+            // int v = edges[i][1];
+            // adj.get(u).add(v);
         }
         
         return adj;
