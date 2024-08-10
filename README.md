@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ash-So/DSAJava/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ash-So/DSAJava/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Ash-So/DSAJava/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/Ash-So/DSAJava/tree/master/1036-rotting-oranges) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Ash-So/DSAJava/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/Ash-So/DSAJava/tree/master/1129-longest-string-chain) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ash-So/DSAJava/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Ash-So/DSAJava/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Ash-So/DSAJava/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Ash-So/DSAJava/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/Ash-So/DSAJava/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ash-So/DSAJava/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Backtracking
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ash-So/DSAJava/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ash-So/DSAJava/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ash-So/DSAJava/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/Ash-So/DSAJava/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
