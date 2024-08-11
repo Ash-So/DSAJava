@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Ash-So/DSAJava/tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/Ash-So/DSAJava/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ash-So/DSAJava/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/Ash-So/DSAJava/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ash-So/DSAJava/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ash-So/DSAJava/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ash-So/DSAJava/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/Ash-So/DSAJava/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/Ash-So/DSAJava/tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/Ash-So/DSAJava/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/Ash-So/DSAJava/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ash-So/DSAJava/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ash-So/DSAJava/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Ash-So/DSAJava/tree/master/0733-flood-fill) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Ash-So/DSAJava/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Ash-So/DSAJava/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Ash-So/DSAJava/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Ash-So/DSAJava/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Ash-So/DSAJava/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ash-So/DSAJava/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ash-So/DSAJava/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Ash-So/DSAJava/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Ash-So/DSAJava/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ash-So/DSAJava/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Ash-So/DSAJava/tree/master/1036-rotting-oranges) |
