@@ -32,8 +32,9 @@ class Solution {
 
         for(int i = 0 ; i < n ; i++){
             if(vis[i] == 0){
-                c++;
+                // c++;
                 dfs(i, adjList, vis);
+                c++;
             }
         }
         return c;
