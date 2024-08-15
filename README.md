@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Ash-So/DSAJava/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Ash-So/DSAJava/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Ash-So/DSAJava/tree/master/0115-distinct-subsequences) |
+| [0126-word-ladder-ii](https://github.com/Ash-So/DSAJava/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Ash-So/DSAJava/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ash-So/DSAJava/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ash-So/DSAJava/tree/master/0516-longest-palindromic-subsequence) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Ash-So/DSAJava/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Ash-So/DSAJava/tree/master/0127-word-ladder) |
 | [1129-longest-string-chain](https://github.com/Ash-So/DSAJava/tree/master/1129-longest-string-chain) |
 ## Two Pointers
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Ash-So/DSAJava/tree/master/0126-word-ladder-ii) |
 | [0494-target-sum](https://github.com/Ash-So/DSAJava/tree/master/0494-target-sum) |
 ## Depth-First Search
 |  |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Ash-So/DSAJava/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Ash-So/DSAJava/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Ash-So/DSAJava/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ash-So/DSAJava/tree/master/0200-number-of-islands) |
