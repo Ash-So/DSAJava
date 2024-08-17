@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ash-So/DSAJava/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ash-So/DSAJava/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ash-So/DSAJava/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Ash-So/DSAJava/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Ash-So/DSAJava/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Ash-So/DSAJava/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Ash-So/DSAJava/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ash-So/DSAJava/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Ash-So/DSAJava/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/Ash-So/DSAJava/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Ash-So/DSAJava/tree/master/1073-number-of-enclaves) |
 ## Union Find
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Ash-So/DSAJava/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ash-So/DSAJava/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ash-So/DSAJava/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/Ash-So/DSAJava/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Ash-So/DSAJava/tree/master/1073-number-of-enclaves) |
 ## Design
 |  |
@@ -184,4 +187,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Ash-So/DSAJava/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/Ash-So/DSAJava/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
