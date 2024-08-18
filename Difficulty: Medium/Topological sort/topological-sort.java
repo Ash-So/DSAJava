@@ -61,35 +61,72 @@ class Main {
 class Solution
 {
     //Function to return list containing vertices in Topological order.
-    static void dfs(int node, ArrayList<ArrayList<Integer>> adj, int[] vis, Stack<Integer> st){
-        vis[node] = 1;
-        
-        for(int it : adj.get(node)){
-            if(vis[it] == 0){
-                dfs(it, adj, vis, st);
-            }
-        }
-        st.push(node);
-    }
-    
+    // BFS : Kahn's Algo
     static int[] topoSort(int V, ArrayList<ArrayList<Integer>> adj) 
     {
         // O(V+E) O(2V)
-        int[] vis = new int[V];
-        Stack<Integer> st = new Stack<>();
+        int[] inDegree = new int[V];
+        for(int i = 0 ; i < V ; i++){
+            for(int it : adj.get(i)){
+                inDegree[it]++; 
+            }
+        }
+        
+        Queue<Integer> q = new LinkedList<>();
         
         for(int i = 0 ; i < V ; i++){
-            if(vis[i] == 0){
-                dfs(i, adj, vis, st);
+            if(inDegree[i] == 0){
+                q.add(i);
             }
         }
         
         int[] ans = new int[V];
         int i = 0;
-        while(!st.isEmpty()){
-            ans[i++] = st.pop();
+        while(!q.isEmpty()){
+            int node = q.remove();
+            ans[i++] = node;
+                
+            for(int it : adj.get(node)){
+                inDegree[it]--;
+                
+                if(inDegree[it] == 0){
+                    q.add(it);
+                }
+            }    
         }
-        
         return ans;
-    } 
+    }
+    
+    // // DFS
+    // static void dfs(int node, ArrayList<ArrayList<Integer>> adj, int[] vis, Stack<Integer> st){
+    //     vis[node] = 1;
+        
+    //     for(int it : adj.get(node)){
+    //         if(vis[it] == 0){
+    //             dfs(it, adj, vis, st);
+    //         }
+    //     }
+    //     st.push(node);
+    // }
+    
+    // static int[] topoSort(int V, ArrayList<ArrayList<Integer>> adj) 
+    // {
+    //     // O(V+E) O(2V)
+    //     int[] vis = new int[V];
+    //     Stack<Integer> st = new Stack<>();
+        
+    //     for(int i = 0 ; i < V ; i++){
+    //         if(vis[i] == 0){
+    //             dfs(i, adj, vis, st);
+    //         }
+    //     }
+        
+    //     int[] ans = new int[V];
+    //     int i = 0;
+    //     while(!st.isEmpty()){
+    //         ans[i++] = st.pop();
+    //     }
+        
+    //     return ans;
+    // } 
 }
