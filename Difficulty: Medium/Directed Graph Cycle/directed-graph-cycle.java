@@ -33,35 +33,72 @@ class DriverClass {
 
 class Solution {
     // Function to detect cycle in a directed graph.
-    public boolean dfs(int node, ArrayList<ArrayList<Integer>> adj, int[] vis, int[] pathVis){
-        vis[node] = 1;
-        pathVis[node] = 1;
-        
-        for(int it : adj.get(node)){
-            if(vis[it] == 0){
-                if(dfs(it, adj, vis, pathVis) == true) 
-                    return true;
-            }
-            else if(pathVis[it] == 1){
-                return true;
-            }
-        }
-        
-        pathVis[node] = 0;
-        return false;
-    }
-    
+    // Kahn's Topo Sort BFS
     public boolean isCyclic(int V, ArrayList<ArrayList<Integer>> adj) {
         // O(V+E) O(2V)
-        int[] vis = new int[V];
-        int[] pathVis = new int[V];
-        
+        int inDegree[] = new int[V];
         for(int i = 0 ; i < V ; i++){
-            if(vis[i] == 0){
-                if(dfs(i, adj, vis, pathVis) == true) return true;
+            for(int it : adj.get(i)){
+                inDegree[it]++;
             }
         }
         
-        return false;
+        Queue<Integer> q = new LinkedList<>();
+        
+        int c = 0;
+        for(int i = 0 ; i < V ; i++){
+            if(inDegree[i] == 0)
+                q.add(i);
+        }
+        
+        while(!q.isEmpty()){
+            int node = q.remove();
+            c++;
+            
+            for(int it : adj.get(node)){
+                inDegree[it]--;
+                
+                if(inDegree[it] == 0){
+                    q.add(it);
+                }
+            }
+        }
+        
+        if(c == V) return false;
+        else return true;
+        
     }
+    
+    // DFS
+    // public boolean dfs(int node, ArrayList<ArrayList<Integer>> adj, int[] vis, int[] pathVis){
+    //     vis[node] = 1;
+    //     pathVis[node] = 1;
+        
+    //     for(int it : adj.get(node)){
+    //         if(vis[it] == 0){
+    //             if(dfs(it, adj, vis, pathVis) == true) 
+    //                 return true;
+    //         }
+    //         else if(pathVis[it] == 1){
+    //             return true;
+    //         }
+    //     }
+        
+    //     pathVis[node] = 0;
+    //     return false;
+    // }
+    
+    // public boolean isCyclic(int V, ArrayList<ArrayList<Integer>> adj) {
+    //     // O(V+E) O(2V)
+    //     int[] vis = new int[V];
+    //     int[] pathVis = new int[V];
+        
+    //     for(int i = 0 ; i < V ; i++){
+    //         if(vis[i] == 0){
+    //             if(dfs(i, adj, vis, pathVis) == true) return true;
+    //         }
+    //     }
+        
+    //     return false;
+    // }
 }
