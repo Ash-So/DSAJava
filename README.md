@@ -209,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Ash-So/DSAJava/tree/master/0199-binary-tree-right-side-view) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Ash-So/DSAJava/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
