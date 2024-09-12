@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ash-So/DSAJava/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/Ash-So/DSAJava/tree/master/0044-wildcard-matching) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ash-So/DSAJava/tree/master/1197-parsing-a-boolean-expression) |
 ## Array
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ash-So/DSAJava/tree/master/0002-add-two-numbers) |
 | [0368-largest-divisible-subset](https://github.com/Ash-So/DSAJava/tree/master/0368-largest-divisible-subset) |
 ## Sorting
 |  |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/Ash-So/DSAJava/tree/master/1908-recyclable-and-low-fat-products) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Ash-So/DSAJava/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
