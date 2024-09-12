@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/Ash-So/DSAJava/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/Ash-So/DSAJava/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ash-So/DSAJava/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1894-merge-strings-alternately](https://github.com/Ash-So/DSAJava/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1129-longest-string-chain](https://github.com/Ash-So/DSAJava/tree/master/1129-longest-string-chain) |
+| [1894-merge-strings-alternately](https://github.com/Ash-So/DSAJava/tree/master/1894-merge-strings-alternately) |
 ## Binary Indexed Tree
 |  |
 | ------- |
