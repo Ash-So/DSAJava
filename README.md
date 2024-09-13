@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ash-So/DSAJava/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Ash-So/DSAJava/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/Ash-So/DSAJava/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Ash-So/DSAJava/tree/master/0072-edit-distance) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ash-So/DSAJava/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0126-word-ladder-ii](https://github.com/Ash-So/DSAJava/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Ash-So/DSAJava/tree/master/0127-word-ladder) |
 | [1129-longest-string-chain](https://github.com/Ash-So/DSAJava/tree/master/1129-longest-string-chain) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ash-So/DSAJava/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ash-So/DSAJava/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Counting
 |  |
