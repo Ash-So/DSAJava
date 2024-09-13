@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Ash-So/DSAJava/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ash-So/DSAJava/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1894-merge-strings-alternately](https://github.com/Ash-So/DSAJava/tree/master/1894-merge-strings-alternately) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ash-So/DSAJava/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Ash-So/DSAJava/tree/master/0300-longest-increasing-subsequence) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ash-So/DSAJava/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Math
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Ash-So/DSAJava/tree/master/0127-word-ladder) |
 | [1129-longest-string-chain](https://github.com/Ash-So/DSAJava/tree/master/1129-longest-string-chain) |
 | [3265-maximum-good-subarray-sum](https://github.com/Ash-So/DSAJava/tree/master/3265-maximum-good-subarray-sum) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ash-So/DSAJava/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -237,4 +240,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3265-maximum-good-subarray-sum](https://github.com/Ash-So/DSAJava/tree/master/3265-maximum-good-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ash-So/DSAJava/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+## Counting
+|  |
+| ------- |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ash-So/DSAJava/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 <!---LeetCode Topics End-->
