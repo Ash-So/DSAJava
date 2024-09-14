@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ash-So/DSAJava/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Ash-So/DSAJava/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Ash-So/DSAJava/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ash-So/DSAJava/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Ash-So/DSAJava/tree/master/0085-maximal-rectangle) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ash-So/DSAJava/tree/master/0015-3sum) |
 | [0368-largest-divisible-subset](https://github.com/Ash-So/DSAJava/tree/master/0368-largest-divisible-subset) |
 | [1129-longest-string-chain](https://github.com/Ash-So/DSAJava/tree/master/1129-longest-string-chain) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ash-So/DSAJava/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ash-So/DSAJava/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Ash-So/DSAJava/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Ash-So/DSAJava/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Ash-So/DSAJava/tree/master/0042-trapping-rain-water) |
 | [1129-longest-string-chain](https://github.com/Ash-So/DSAJava/tree/master/1129-longest-string-chain) |
 | [1894-merge-strings-alternately](https://github.com/Ash-So/DSAJava/tree/master/1894-merge-strings-alternately) |
