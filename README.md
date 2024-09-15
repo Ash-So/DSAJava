@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Ash-So/DSAJava/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Ash-So/DSAJava/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ash-So/DSAJava/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0605-can-place-flowers](https://github.com/Ash-So/DSAJava/tree/master/0605-can-place-flowers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ash-So/DSAJava/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ash-So/DSAJava/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Recursion
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Ash-So/DSAJava/tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/Ash-So/DSAJava/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Ash-So/DSAJava/tree/master/0542-01-matrix) |
+| [0605-can-place-flowers](https://github.com/Ash-So/DSAJava/tree/master/0605-can-place-flowers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ash-So/DSAJava/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ash-So/DSAJava/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Ash-So/DSAJava/tree/master/0733-flood-fill) |
