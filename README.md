@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Ash-So/DSAJava/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Ash-So/DSAJava/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ash-So/DSAJava/tree/master/0132-palindrome-partitioning-ii) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ash-So/DSAJava/tree/master/0345-reverse-vowels-of-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ash-So/DSAJava/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ash-So/DSAJava/tree/master/0583-delete-operation-for-two-strings) |
 | [1129-longest-string-chain](https://github.com/Ash-So/DSAJava/tree/master/1129-longest-string-chain) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Ash-So/DSAJava/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ash-So/DSAJava/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Ash-So/DSAJava/tree/master/0042-trapping-rain-water) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ash-So/DSAJava/tree/master/0345-reverse-vowels-of-a-string) |
 | [1129-longest-string-chain](https://github.com/Ash-So/DSAJava/tree/master/1129-longest-string-chain) |
 | [1894-merge-strings-alternately](https://github.com/Ash-So/DSAJava/tree/master/1894-merge-strings-alternately) |
 ## Binary Indexed Tree
