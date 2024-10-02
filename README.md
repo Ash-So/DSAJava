@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ash-So/DSAJava/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ash-So/DSAJava/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Ash-So/DSAJava/tree/master/0733-flood-fill) |
+| [0792-binary-search](https://github.com/Ash-So/DSAJava/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/Ash-So/DSAJava/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Ash-So/DSAJava/tree/master/1073-number-of-enclaves) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Ash-So/DSAJava/tree/master/1121-partition-array-for-maximum-sum) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Ash-So/DSAJava/tree/master/0300-longest-increasing-subsequence) |
+| [0792-binary-search](https://github.com/Ash-So/DSAJava/tree/master/0792-binary-search) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ash-So/DSAJava/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Math
 |  |
