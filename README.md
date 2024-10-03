@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ash-So/DSAJava/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ash-So/DSAJava/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/Ash-So/DSAJava/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Ash-So/DSAJava/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ash-So/DSAJava/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Ash-So/DSAJava/tree/master/0085-maximal-rectangle) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Ash-So/DSAJava/tree/master/0035-search-insert-position) |
 | [0300-longest-increasing-subsequence](https://github.com/Ash-So/DSAJava/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/Ash-So/DSAJava/tree/master/0792-binary-search) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ash-So/DSAJava/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
